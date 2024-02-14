@@ -20,8 +20,10 @@
     <br> 
 </p>
 ![](https://github.com/Kaies00/FlutterGudeline/blob/master/lib/app_icon_splashScreen/splashScreen.gif)
-<img src="https://github.com/Kaies00/FlutterGudeline/blob/master/lib/app_icon_splashScreen/splashScreen.gif">
+<p align="center">
+  <img src="https://github.com/Kaies00/FlutterGudeline/blob/master/lib/app_icon_splashScreen/splashScreen.gif">
 
+</p>
 
 ## 📝 Table of Contents
 
