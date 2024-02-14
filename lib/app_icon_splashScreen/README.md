@@ -19,7 +19,7 @@
 <p align="center"> Few lines describing your project.
     <br> 
 </p>
-![Splash Screen Gif](https://github.com/Kaies00/FlutterGudeline/blob/master/lib/app_icon_splashScreen/splashScreen.gif)
+![](https://github.com/Kaies00/FlutterGudeline/blob/master/lib/app_icon_splashScreen/splashScreen.gif)
 
 
 ## 📝 Table of Contents
