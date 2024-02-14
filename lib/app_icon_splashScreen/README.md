@@ -50,9 +50,11 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+flutter pub add animated_text_kit
 ```
-
+```
+flutter pub add flutter_launcher_icons
+```
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
