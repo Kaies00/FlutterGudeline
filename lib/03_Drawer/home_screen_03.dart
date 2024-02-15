@@ -96,8 +96,8 @@ class _HomePage03State extends State<HomePage03> with TickerProviderStateMixin {
                         icon: AnimatedIcons.menu_close,
                         progress: _firstPageIconController),
                   ),
-                  Text("Location"),
-                  CircleAvatar(
+                  const Text("Location"),
+                  const CircleAvatar(
                     backgroundColor: Colors.purpleAccent,
                      backgroundImage: NetworkImage('https://www.woolha.com/media/2020/03/eevee.png'),
                   )
