@@ -20,7 +20,7 @@
     <br> 
 </p>
 <p align="center">
-  <img src="https://github.com/Kaies00/FlutterGudeline/blob/master/lib/02_Bottom_Nav_Bar/BottomTabBar.gif">
+  <img src="https://github.com/Kaies00/FlutterGudeline/blob/master/lib/02_Bottom_Nav_Bar/BottomTabBar.gif" width="100" height="200">
 
 </p>
 
