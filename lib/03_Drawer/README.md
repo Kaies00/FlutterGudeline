@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Bottom Nav Bar</h3>
+<h3 align="center">Drawer</h3>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> bottomnavigation bar with cool animation
+<p align="center"> Drawer with cool animation
     <br> 
 </p>
 <p align="center">
