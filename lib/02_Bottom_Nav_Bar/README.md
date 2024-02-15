@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Splash Screen And App icon</h3>
+<h3 align="center">Bottom Nav Bar</h3>
 
 <div align="center">
 
@@ -16,10 +16,9 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> bottomnavigation bar with cool animation
     <br> 
 </p>
-![](https://github.com/Kaies00/FlutterGudeline/blob/master/lib/app_icon_splashScreen/splashScreen.gif)
 <p align="center">
   <img src="https://github.com/Kaies00/FlutterGudeline/blob/master/lib/app_icon_splashScreen/splashScreen.gif">
 
@@ -35,7 +34,7 @@
 Library install
 
 ```
-flutter pub add animated_text_kit
+flutter pub add animated_bottom_navigation_bar
 ```
 ```
 flutter pub add flutter_launcher_icons

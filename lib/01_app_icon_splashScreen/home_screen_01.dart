@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'package:animated_text_kit/animated_text_kit.dart';
-import 'package:flutter_guideline_01/app_icon_splashScreen/after_splashScreenPage.dart';
+import 'package:flutter_guideline_01/01_app_icon_splashScreen/after_splashScreenPage.dart';
 // flutter pub add animated_text_kit
 // flutter pub add flutter_launcher_icons
 
@@ -38,7 +38,7 @@ class _HomeScreen01State extends State<HomeScreen01> {
               width: double.infinity,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                    image: AssetImage("lib\\app_icon_splashScreen\\icon3d31.png")),
+                    image: AssetImage("assets/images/notes.png")),
               )),
           AnimatedTextKit(isRepeatingAnimation: false, animatedTexts: [
             TyperAnimatedText(
