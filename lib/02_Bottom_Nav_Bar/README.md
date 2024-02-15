@@ -20,7 +20,7 @@
     <br> 
 </p>
 <p align="center">
-  <img src="https://github.com/Kaies00/FlutterGudeline/blob/master/lib/app_icon_splashScreen/splashScreen.gif">
+  <img src="https://github.com/Kaies00/FlutterGudeline/blob/master/lib/02_Bottom_Nav_Bar/BottomTabBar.gif">
 
 </p>
 
@@ -36,10 +36,3 @@ Library install
 ```
 flutter pub add animated_bottom_navigation_bar
 ```
-```
-flutter pub add flutter_launcher_icons
-```
-```
-flutter pub run flutter_launcher_icons
-```
-look to pbspec.yaml
